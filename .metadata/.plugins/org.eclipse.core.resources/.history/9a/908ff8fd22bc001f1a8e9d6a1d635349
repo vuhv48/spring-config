@@ -24,10 +24,6 @@ spring:
 #        native:
 #          search-locations: "classpath:/config"
          git:
-           uri: "https://github.com/vuhv48/spring-config.git"
-           default-label: master
-           timeout: 5
-           clone-on-start: true
-           force-pull: true
+           uri: """
 server:
   port: 8071
