@@ -1,0 +1,17 @@
+server:
+	port: 8081
+spring:
+  application:
+    name: configurations
+  config:
+    import:
+      - "application_prod.yml"
+      - "application_qa.yml"
+  profiles:
+    active:
+      - "prod"
+
+build:
+  version: "default"
+
+

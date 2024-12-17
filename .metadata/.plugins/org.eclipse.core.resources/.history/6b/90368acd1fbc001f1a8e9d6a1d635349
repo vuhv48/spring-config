@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: "cloud-config-client"
+  profiles:
+    active: "prod"
+  config:
+    import: "optional:cloud-config-server:http://localhost:8071/"
+
+server:
+  port: 8081

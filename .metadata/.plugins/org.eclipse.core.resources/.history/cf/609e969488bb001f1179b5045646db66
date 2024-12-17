@@ -1,0 +1,2 @@
+spring.application.name=hola-springboot
+helloapp.saying=Guten Tag aus

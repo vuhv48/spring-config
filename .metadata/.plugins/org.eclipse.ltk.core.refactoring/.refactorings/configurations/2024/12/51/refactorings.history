@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;configurations/src/main/resources/application_qa.ym&apos; to &apos;application_qa.yml&apos;" description="Rename resource &apos;application_qa.ym&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/application_qa.ym" name="application_qa.yml" stamp="1734358443618" updateReferences="true"/>
+</session>

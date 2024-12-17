@@ -1,0 +1,5 @@
+package com.microservice.cloud_config_client.controller;
+
+public class ConfigController {
+
+}

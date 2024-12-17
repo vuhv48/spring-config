@@ -1,0 +1,503 @@
+2024-12-16 15:03:09,441 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2024-12-16 15:03:31,183 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservice-book:hola-springboot:0.0.1-SNAPSHOT @ /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/pom.xml.
+2024-12-16 15:03:31,707 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hola-springboot/src/main/java
+2024-12-16 15:03:31,707 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hola-springboot/src/main/resources
+2024-12-16 15:03:31,708 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hola-springboot/src/main/resources
+2024-12-16 15:03:31,710 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hola-springboot/src/test/java
+2024-12-16 15:03:31,710 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hola-springboot/src/test/resources
+2024-12-16 15:03:32,055 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2024-12-16 15:03:32,577 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 15:03:32,587 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 15:03:32,589 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/src/test/resources
+2024-12-16 15:04:18,814 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 15:04:18,815 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 15:04:18,817 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/src/test/resources
+2024-12-16 15:04:33,528 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 15:04:33,529 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 15:04:33,531 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/src/test/resources
+2024-12-16 15:04:43,598 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 15:04:43,599 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 15:04:43,605 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/src/test/resources
+2024-12-16 15:05:42,991 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 15:05:42,993 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 15:05:42,994 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/src/test/resources
+2024-12-16 15:06:47,982 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 15:06:47,984 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 15:06:47,986 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/src/test/resources
+2024-12-16 15:11:25,173 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 15:11:25,177 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 15:11:25,178 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/src/test/resources
+2024-12-16 15:12:07,759 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservice-book:hola-springboot:0.0.1-SNAPSHOT @ /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/pom.xml.
+2024-12-16 15:12:07,941 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 15:12:07,942 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 15:12:07,944 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/src/test/resources
+2024-12-16 15:12:09,033 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 15:12:09,045 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 15:12:09,050 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/src/test/resources
+2024-12-16 15:16:09,304 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 15:16:09,307 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 15:16:09,309 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/src/test/resources
+2024-12-16 15:16:45,049 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 15:16:45,051 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 15:16:45,052 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/src/test/resources
+2024-12-16 15:16:56,815 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 15:16:56,817 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 15:16:56,818 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/src/test/resources
+2024-12-16 15:17:01,148 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 15:17:01,150 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 15:17:01,152 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/src/test/resources
+2024-12-16 15:22:18,518 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 15:22:18,520 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 15:22:18,522 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/src/test/resources
+2024-12-16 15:23:19,853 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservice-book:hola-springboot:0.0.1-SNAPSHOT @ /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/pom.xml.
+2024-12-16 15:23:19,985 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 15:23:19,985 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 15:23:19,995 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/src/test/resources
+2024-12-16 15:23:21,101 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 15:23:21,108 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 15:23:21,110 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/src/test/resources
+2024-12-16 15:24:12,365 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 15:24:12,372 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 15:24:12,373 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/src/test/resources
+2024-12-16 15:24:33,735 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 15:24:33,740 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 15:24:33,742 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/src/test/resources
+2024-12-16 15:24:49,065 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 15:24:49,066 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 15:24:49,068 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/src/test/resources
+2024-12-16 15:25:09,635 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 15:25:09,639 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 15:25:09,640 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/src/test/resources
+2024-12-16 15:34:35,889 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 15:34:35,893 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 15:34:35,896 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/src/test/resources
+2024-12-16 15:35:30,875 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 15:35:30,876 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 15:35:30,877 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/src/test/resources
+2024-12-16 15:35:34,603 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 15:35:34,605 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 15:35:34,607 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/src/test/resources
+2024-12-16 15:35:42,420 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 15:35:42,425 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 15:35:42,426 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/src/test/resources
+2024-12-16 20:40:46,078 [Worker-46: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - File not found: /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/pom.xml.
+org.eclipse.core.internal.resources.ResourceException: File not found: /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/pom.xml.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:886)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:344)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:334)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:589)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.runtime.CoreException: File not found: /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/pom.xml.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:32)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.handleReadIOException(LocalFile.java:498)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:479)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:881)
+	... 26 common frames omitted
+Caused by: java.io.FileNotFoundException: /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/hola-springboot/pom.xml (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:477)
+	... 27 common frames omitted
+2024-12-16 20:40:46,094 [Worker-46: Building] ERROR o.e.m.jdt.internal.BuildPathManager - Can't save classpath container state for hola-springboot
+java.io.FileNotFoundException: /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/.metadata/.plugins/org.eclipse.m2e.jdt/hola-springboot.container (No such file or directory)
+	at java.base/java.io.FileOutputStream.open0(Native Method)
+	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:289)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:230)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:179)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.saveContainerState(BuildPathManager.java:213)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.updateClasspath(BuildPathManager.java:204)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.mavenProjectChanged(BuildPathManager.java:188)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:324)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-12-16 20:40:46,097 [Worker-46: Building] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Could not update launch configuration
+org.eclipse.core.runtime.CoreException: File not found: /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/.metadata/.plugins/org.eclipse.debug.core.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:32)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.mkdir(LocalFile.java:384)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:310)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:324)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.nio.file.NoSuchFileException: /Users/hoangvanvu/CodeForTutorial/HolaSpringBoot/.metadata/.plugins/org.eclipse.debug.core/.launches
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.createDirectory(UnixFileSystemProvider.java:438)
+	at java.base/java.nio.file.Files.createDirectory(Files.java:699)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.mkdir(LocalFile.java:365)
+	... 30 common frames omitted
+2024-12-16 20:50:25,457 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-16 20:50:28,159 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 20:50:28,196 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 20:50:28,203 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/hola-springboot/src/test/resources
+2024-12-16 20:51:18,493 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-16 20:51:38,859 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservice:configurations:0.0.1-SNAPSHOT @ /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/pom.xml.
+2024-12-16 20:51:39,085 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /configurations/src/main/java
+2024-12-16 20:51:39,086 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /configurations/src/main/resources
+2024-12-16 20:51:39,086 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /configurations/src/main/resources
+2024-12-16 20:51:39,086 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /configurations/src/test/java
+2024-12-16 20:51:39,087 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /configurations/src/test/resources
+2024-12-16 20:51:39,159 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-12-16 20:51:39,763 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 20:51:39,771 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 20:51:39,773 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 20:52:40,344 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 20:52:40,351 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 20:52:40,353 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:02:36,077 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:02:36,078 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:02:36,080 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:05:25,359 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:05:25,364 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:05:25,366 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:05:53,729 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:05:53,734 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:05:53,735 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:13:51,380 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:13:51,382 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:13:51,386 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:14:03,728 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:14:03,729 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:14:03,731 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:18:54,348 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src/main/resources to target/classes
+2024-12-16 21:18:54,356 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:18:54,359 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:20:11,417 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:20:11,419 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:20:11,420 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:22:14,110 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src/main/resources to target/classes
+2024-12-16 21:22:14,114 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:22:14,116 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:26:46,540 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2024-12-16 21:26:46,542 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:26:46,544 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:27:01,496 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:27:01,506 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:27:01,508 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:27:12,758 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:27:12,766 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:27:12,770 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:27:20,057 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:27:20,059 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:27:20,060 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:27:38,719 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:27:38,720 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:27:38,722 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:27:54,384 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:27:54,386 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:27:54,387 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:28:11,590 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:28:11,591 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:28:11,592 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:29:58,155 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:29:58,157 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:29:58,160 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:30:05,627 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:30:05,629 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:30:05,631 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:30:08,517 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:30:08,520 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:30:08,522 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:30:12,562 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:30:12,568 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:30:12,570 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:30:13,596 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:30:13,601 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:30:13,602 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:32:29,988 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:32:29,991 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:32:29,994 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:35:08,825 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:35:08,827 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:35:08,828 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:35:50,440 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:35:50,442 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:35:50,444 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:36:06,664 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:36:06,665 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:36:06,667 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:36:29,325 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:36:29,326 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:36:29,328 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:39:07,672 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:39:07,687 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:39:07,688 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:39:19,269 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:39:19,276 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:39:19,278 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:40:37,075 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:40:37,081 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:40:37,083 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:40:55,611 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:40:55,618 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:40:55,620 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:41:17,110 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:41:17,116 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:41:17,118 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:41:21,173 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:41:21,180 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:41:21,182 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:42:50,718 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:42:50,725 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:42:50,729 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:43:02,980 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:43:02,983 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:43:02,986 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:48:33,275 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2024-12-16 21:48:33,279 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:48:33,280 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:48:51,553 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:48:51,556 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:48:51,559 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:49:00,879 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:49:00,886 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:49:00,888 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:51:04,832 [Worker-64: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eazybytes:accounts:0.0.1-SNAPSHOT @ /Users/hoangvanvu/CodeForTutorial/microservices_eazybytes/microservices/section6/v1-springboot/accounts/pom.xml.
+2024-12-16 21:51:05,145 [Worker-64: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /accounts/src/main/java
+2024-12-16 21:51:05,146 [Worker-64: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /accounts/src/main/resources
+2024-12-16 21:51:05,146 [Worker-64: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /accounts/src/main/resources
+2024-12-16 21:51:05,146 [Worker-64: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /accounts/src/test/java
+2024-12-16 21:51:05,146 [Worker-64: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /accounts/src/test/resources
+2024-12-16 21:51:05,203 [Worker-64: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-12-16 21:51:06,016 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src/main/resources to target/classes
+2024-12-16 21:51:06,028 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:51:06,033 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/microservices_eazybytes/microservices/section6/v1-springboot/accounts/src/test/resources
+2024-12-16 21:52:24,631 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:52:24,634 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:52:24,636 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/microservices_eazybytes/microservices/section6/v1-springboot/accounts/src/test/resources
+2024-12-16 21:52:30,794 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:52:30,796 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:52:30,798 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/microservices_eazybytes/microservices/section6/v1-springboot/accounts/src/test/resources
+2024-12-16 21:52:36,767 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:52:36,769 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:52:36,771 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/microservices_eazybytes/microservices/section6/v1-springboot/accounts/src/test/resources
+2024-12-16 21:52:47,146 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:52:47,155 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:52:47,159 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/microservices_eazybytes/microservices/section6/v1-springboot/accounts/src/test/resources
+2024-12-16 21:54:12,740 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:54:12,745 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:54:12,747 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:54:29,859 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:54:29,865 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:54:29,867 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:55:04,602 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:55:04,609 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:55:04,610 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:55:18,997 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:55:18,999 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:55:19,000 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:55:42,627 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:55:42,636 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:55:42,640 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:55:52,327 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:55:52,329 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:55:52,331 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:56:12,593 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:56:12,595 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:56:12,597 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:56:50,970 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src/main/resources to target/classes
+2024-12-16 21:56:50,974 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:56:50,975 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:57:11,789 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:57:11,791 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:57:11,793 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:58:06,291 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:58:06,293 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:58:06,294 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:58:21,650 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:58:21,651 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:58:21,653 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:58:30,281 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:58:30,282 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:58:30,284 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:58:41,911 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:58:41,913 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:58:41,915 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 21:58:52,229 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 21:58:52,231 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 21:58:52,232 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/configurations/src/test/resources
+2024-12-16 22:10:29,127 [Worker-75: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservice:cloud-config-server:0.0.1-SNAPSHOT @ /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-server/pom.xml.
+2024-12-16 22:10:29,448 [Worker-75: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-config-server/src/main/java
+2024-12-16 22:10:29,448 [Worker-75: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-config-server/src/main/resources
+2024-12-16 22:10:29,449 [Worker-75: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-config-server/src/main/resources
+2024-12-16 22:10:29,450 [Worker-75: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-config-server/src/test/java
+2024-12-16 22:10:29,450 [Worker-75: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-config-server/src/test/resources
+2024-12-16 22:10:29,564 [Worker-75: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-12-16 22:10:29,773 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-16 22:10:29,779 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-16 22:10:29,781 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-server/src/test/resources
+2024-12-17 09:08:14,715 [Worker-82: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservice:cloud-config-client:0.0.1-SNAPSHOT @ /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-client/pom.xml.
+2024-12-17 09:08:14,865 [Worker-82: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-config-client/src/main/java
+2024-12-17 09:08:14,865 [Worker-82: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-config-client/src/main/resources
+2024-12-17 09:08:14,865 [Worker-82: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-config-client/src/main/resources
+2024-12-17 09:08:14,866 [Worker-82: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-config-client/src/test/java
+2024-12-17 09:08:14,866 [Worker-82: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-config-client/src/test/resources
+2024-12-17 09:08:14,931 [Worker-82: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-12-17 09:08:15,158 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:08:15,165 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:08:15,166 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-client/src/test/resources
+2024-12-17 09:08:41,822 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:08:41,823 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:08:41,825 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-server/src/test/resources
+2024-12-17 09:09:05,709 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:09:05,710 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:09:05,711 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-client/src/test/resources
+2024-12-17 09:09:37,665 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:09:37,671 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:09:37,676 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-client/src/test/resources
+2024-12-17 09:09:42,912 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:09:42,915 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:09:42,917 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-client/src/test/resources
+2024-12-17 09:10:06,571 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:10:06,573 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:10:06,576 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-client/src/test/resources
+2024-12-17 09:12:37,946 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:12:37,949 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:12:37,951 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-server/src/test/resources
+2024-12-17 09:12:46,863 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:12:46,865 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:12:46,866 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-server/src/test/resources
+2024-12-17 09:14:26,573 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:14:26,575 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:14:26,576 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-server/src/test/resources
+2024-12-17 09:17:33,121 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:17:33,122 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:17:33,123 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-server/src/test/resources
+2024-12-17 09:18:59,058 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:18:59,058 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:18:59,060 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-server/src/test/resources
+2024-12-17 09:22:12,300 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:22:12,301 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:22:12,302 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-server/src/test/resources
+2024-12-17 09:29:50,952 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:29:50,955 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:29:50,957 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-client/src/test/resources
+2024-12-17 09:31:04,827 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:31:04,837 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:31:04,841 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-client/src/test/resources
+2024-12-17 09:31:10,664 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:31:10,666 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:31:10,667 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-client/src/test/resources
+2024-12-17 09:32:14,976 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:32:14,978 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:32:14,980 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-client/src/test/resources
+2024-12-17 09:33:37,682 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:33:37,683 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:33:37,685 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-client/src/test/resources
+2024-12-17 09:33:46,011 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:33:46,013 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:33:46,014 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-client/src/test/resources
+2024-12-17 09:34:03,478 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:34:03,479 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:34:03,480 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-client/src/test/resources
+2024-12-17 09:34:26,717 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:34:26,718 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:34:26,719 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-client/src/test/resources
+2024-12-17 09:34:48,299 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:34:48,300 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:34:48,302 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-client/src/test/resources
+2024-12-17 09:35:17,458 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:35:17,459 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:35:17,461 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-client/src/test/resources
+2024-12-17 09:35:21,151 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:35:21,151 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:35:21,152 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-client/src/test/resources
+2024-12-17 09:37:05,217 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:37:05,219 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:37:05,221 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-client/src/test/resources
+2024-12-17 09:37:13,993 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:37:14,006 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:37:14,010 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-server/src/test/resources
+2024-12-17 09:38:13,279 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:38:13,282 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:38:13,284 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-client/src/test/resources
+2024-12-17 09:38:21,661 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:38:21,661 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:38:21,663 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-server/src/test/resources
+2024-12-17 09:38:34,773 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:38:34,773 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:38:34,774 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-server/src/test/resources
+2024-12-17 09:40:48,804 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:40:48,805 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:40:48,807 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-server/src/test/resources
+2024-12-17 09:41:32,017 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:41:32,018 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:41:32,019 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-server/src/test/resources
+2024-12-17 09:41:44,459 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:41:44,460 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:41:44,462 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-server/src/test/resources
+2024-12-17 09:41:46,931 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:41:46,932 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:41:46,934 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-server/src/test/resources
+2024-12-17 09:41:58,657 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-17 09:41:58,670 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-17 09:41:58,674 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/hoangvanvu/CodeForTutorial/Microservice_Config/cloud-config-client/src/test/resources

@@ -1,0 +1,5 @@
+package com.microservice_book.hola_springboot.controller;
+
+public class HolaRestController {
+
+}

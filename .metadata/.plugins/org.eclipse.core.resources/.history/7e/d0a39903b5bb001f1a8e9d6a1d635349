@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: configurations
+
+build:
+  version: "1.0"

@@ -1,0 +1,7 @@
+spring:
+  config:
+    active:
+      on-profile: "prod"
+
+build:
+  version: "prod"

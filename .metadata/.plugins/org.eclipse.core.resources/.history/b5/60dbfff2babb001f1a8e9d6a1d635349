@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: configurations
+  config:
+    import:
+      - "classpath:application_prod.yml"
+      - "classpath:application_qa.yml"
+    profiles:
+      active:
+        - "prod"
+
+build:
+  version: "default"
+
+

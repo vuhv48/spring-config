@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: "cloud-config-client"
+
+server:
+  port: 8081
