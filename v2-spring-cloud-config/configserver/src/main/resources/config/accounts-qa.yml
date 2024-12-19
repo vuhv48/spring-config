@@ -1,0 +1,5 @@
+build:
+  version: "qa"
+
+cards:
+  message: "Welcome to cards"
