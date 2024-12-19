@@ -1,0 +1,10 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "prod"
+
+cards:
+  message: "Welcome to cards"

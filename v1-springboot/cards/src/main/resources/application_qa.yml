@@ -1,0 +1,10 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "qa"
+
+cards:
+  message: "Welcome to cards"
