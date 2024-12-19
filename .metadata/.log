@@ -645,3 +645,9 @@ java.util.concurrent.TimeoutException
 	at org.eclipse.lsp4e.operations.completion.LSCompletionProposal.getAdditionalProposalInfo(LSCompletionProposal.java:1)
 	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-17 12:55:42.391
+!MESSAGE Classpath changed for project: gateway
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-17 12:55:42.391
+!MESSAGE Boot project ADDED: gateway
